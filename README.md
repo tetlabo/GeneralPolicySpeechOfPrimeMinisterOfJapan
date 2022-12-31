@@ -1,9 +1,9 @@
 # 所信表明演説コーパス
 
 This is the corpus of Japanese Text that general policy speech of prime minister of Japan
-(from 1953 to 2014)
+(from 1953 to 2022)
 
-日本の首相による所信表明演説のコーパス（期間：1953~2014）
+日本の首相による所信表明演説のコーパス（期間：1953-2022）
 
 ## 作成方法
 
@@ -28,3 +28,7 @@ http://kokkai.ndl.go.jp/
 
 総理大臣の名前の字体がWikipediaと国会会議録検索システムとで違うケースがあったが、全てそのままにしている。
 (例, Wiki:宮沢喜一, 議録：宮澤喜一)
+
+## forkによる更新 by @tetlabo
+
+元のリポジトリでは第187回国会までのデータしかなかったため、同様の方法で、第192回国会以降に行われた演説も取得し、追加した。
